@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+env/
+venv/
+entorno
+# Archivos de entorno
+*.env
+
+# Archivos de configuración de la base de datos local
+db.sqlite3
+
+# Archivos de logs
+*.log
+
+# Django cache files
+*.log
+*.pot
+*.pyc
+*.pyo
+*.so
+*.sqlite3
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# Directorio de migraciones de Django
+**/migrations/
+
+# Static files
+staticfiles/
+
+# Archivos de configuraciones del IDE
+.vscode/
+.idea/
+
+# Dependencias instaladas
+node_modules/
